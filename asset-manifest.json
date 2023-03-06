@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ec08031.css",
+    "main.js": "/static/js/main.f5d123ee.js",
+    "static/media/background.png": "/static/media/background.fecd7ae0e6e32af9b0ed.png",
+    "static/media/robinlawhite.png": "/static/media/robinlawhite.bf4898753d20a52b95c4.png",
+    "index.html": "/index.html",
+    "main.9ec08031.css.map": "/static/css/main.9ec08031.css.map",
+    "main.f5d123ee.js.map": "/static/js/main.f5d123ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec08031.css",
+    "static/js/main.f5d123ee.js"
+  ]
+}
